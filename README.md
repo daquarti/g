@@ -9,4 +9,5 @@ Crea la carpeta .vscode en tu proyecto y coloca el archivo settings.json en su i
 
 ## Preview
 
-![Club Atlético Platense](/preview.png "platense") 
+![Club Atlético Platense](/preview.png "Boca") 
+
