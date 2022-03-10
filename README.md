@@ -11,3 +11,5 @@ Crea la carpeta .vscode en tu proyecto y coloca el archivo settings.json en su i
 
 ![Club Atlético Platense](/preview.png "Boca") 
 
+CAPO
+
